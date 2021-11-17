@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul_Kel13", "Modul_Kel13\Modul_Kel13.csproj", "{EE10BE3A-4E40-48CF-825D-B471F8097C71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE10BE3A-4E40-48CF-825D-B471F8097C71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE10BE3A-4E40-48CF-825D-B471F8097C71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE10BE3A-4E40-48CF-825D-B471F8097C71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE10BE3A-4E40-48CF-825D-B471F8097C71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE7EC9F1-CCE1-43AF-8239-6AEA6C4FD385}
+	EndGlobalSection
+EndGlobal
